@@ -1,0 +1,7 @@
+{
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "workbench.editor.processExplorer": false,
+        "workbench.editorinputs.searchEditorInput": true
+    }
+}
